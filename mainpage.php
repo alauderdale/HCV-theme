@@ -1,7 +1,6 @@
 <?php /* Template Name: Home
  */ ?>
 
-
 <?php get_header(); ?>
 	<div class="slider-contain">
 		<div class="flexslider">
